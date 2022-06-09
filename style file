@@ -1,0 +1,157 @@
+body
+{
+   background-color: #d9e6f2
+}
+.pkp_structure_main 
+{
+    background-color: #ffffff;
+    padding:10px;
+}
+.article-abstract p
+{
+    font-size:16px;
+    text-align: justify;
+}
+.issues_archive
+{
+  list-style-type:none;  
+ 
+}
+.issuediv{
+display:inline-block;
+ width:23%;
+}
+
+.footer[role="contentinfo"]
+{
+    background-color: #d9e6f2
+}
+.article-references-content p
+{
+   text-align: justify; 
+}
+.navbar-default, .header_view
+{
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    background-color: #5170D7;
+    border-radius: 5px solid gray;
+}
+.container-fluid row
+{
+    background-color: wheat;
+}
+.ccr
+{
+    word-wrap: break-word;
+    width  :100px;
+}
+.btn-group a
+{
+ background-color: #040348;
+}
+a{
+    color: #040348;
+}
+a:hover
+{
+    color:#A09BD7;
+}
+.btn-primary
+{
+     background-color: #040348;
+}
+.btn-primary:hover
+{
+    background-color:#A09BD7;
+}
+.dropdown-menu li a:hover
+{
+    background-color:#A09BD7;
+}
+
+.btn-group .dropdown-menu li a
+{
+    background-color:#fff; 
+}
+.btn-group .dropdown-menu li a:hover
+{
+    background-color:#A09BD7; 
+}
+.article-more-details div .panel-heading
+{
+    background-color:#5170D7;  
+    color : #000;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.Dimensions
+{
+    background-color:#040348;  
+    color : #fff;
+    width:280px;
+    height:50px;
+    border-radius: 5px solid gray;
+    text-align: center;
+    padding:10px;
+     box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    
+}
+.doilabel
+{
+    color:#000;
+}
+.paperbuzz-bar.main ,.paperbuzz-bar.alt
+{
+    fill:#94BFFC; 
+}
+
+.autheremail
+{
+     color : #4169e1;
+}
+.btn-default, .pkp_block.block_make_submission a
+{
+     background-color: #040348;
+}
+.pkp_block .title
+{
+     background-color:#5170D7;  
+    color : #000;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+hr
+{
+    border-top: 2px solid  #040348;
+}
+
+.hryear
+{
+    border-top: 1px solid  #333; 
+}
+.archyear h3
+{
+    color : #28587A;
+     text-shadow: 2px 2px 8px #28587A;
+    
+}
+.issuesam
+{
+    background-color: #ECF3FF;
+    padding:5px;
+     
+}
+
+.container
+ {
+    width: 98%;
+}
+.page-header,.media-heading a{
+    font-family: Arial, Helvetica, sans-serif;
+   font-size: 17px;
+    line-height: 1.6;
+}
+.page_about
+{
+     text-align: justify;
+     padding:10px;
+}
